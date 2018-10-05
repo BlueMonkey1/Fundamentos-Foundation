@@ -1,0 +1,156 @@
+.container{
+  background-color: #55CCAA;
+
+  border-radius: 0px 0px 5px 5px;
+
+
+}
+.encabezado{
+  background-color: #0277bd ;
+  max-height: 10rem;
+  min-height: 10rem;
+  border-radius: 5px 5px 0px 0px;
+  opacity: 0.6;
+  margin-top: 1rem;
+}
+.texto{
+  background-color: green;
+  border-right: 1px solid white;
+
+}
+
+.titulo{
+  color: white;
+  opacity: none !important;
+  margin-top: 1rem;
+}
+.busqueda{
+  min-height: 60rem;
+  background-color: #1976d2 ;
+  margin-top: 0.5rem;
+  margin-left: 0.5rem;
+  margin-right: 2rem;
+  margin-bottom: 0.5rem;
+  border-radius: 5px;
+  opacity: none !important;
+}
+
+.blogmedia{
+  min-height: 60rem;
+  margin-top: 0.5rem;
+  border-radius: 5px;
+
+  
+
+}
+.buscador{
+  margin-top: 2rem;
+
+}
+
+.boton{
+  background-color: #0097a7 ;
+
+
+}
+.botones{
+  margin-top: 0.5rem;
+
+}
+.fotografias{
+  margin-top: 0.5rem;
+
+}
+.historial{
+  margin-top: 0.5rem;
+
+}
+.foto1{
+  margin-top: 0.5rem;
+  min-height: 9rem;
+  background-color: green;
+
+}
+.foto2{
+  min-height: 9rem;
+
+  margin-top: 0.5rem;
+}
+.tituloH{
+  color: white;
+}
+.lista{
+  list-style: none;
+
+}
+
+.listxt{
+  color: white;
+
+}
+
+.cont1{
+  min-height: 50rem;
+  background-color: #00b8d4;
+  border-radius: 5px;
+}
+
+.cont2{
+  margin-top: 2rem;
+  min-height: 50rem;
+  background-color: #00b8d4;
+  border-radius: 5px;
+}
+
+h5{
+color: #e64a19  ;
+
+}
+.fotografia1{
+  min-height: 25rem;
+
+
+}
+.comentario{
+  color: #e64a19;
+
+}
+
+.publicar{
+  margin-right: 1rem;
+
+}
+.comentario1{
+  min-height: 6rem;
+  border: 2px solid #455a64 ;
+  border-radius: 5px;
+  margin-bottom: 0.5rem;
+}
+.comentario2{
+  min-height: 6rem;
+  border: 2px solid #455a64 ;
+  border-radius: 5px;
+  margin-bottom: 0.5rem;
+}
+.user1{
+  width: 15%;
+
+}
+.hola1{
+
+  min-height: 6rem;
+}
+.hola2{
+
+  min-height: 6rem;
+
+}
+body{
+  background-image: url(../img/fondo.jpg) ;
+  background-repeat: no-repeat;
+   background-attachment: fixed;
+  -webkit-background-size:cover;
+  -moz-background-size:cover;
+  -o-background-size:cover;
+  background-size:cover;
+}
